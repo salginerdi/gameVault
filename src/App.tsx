@@ -399,7 +399,7 @@ function App() {
 
     return (
         <div
-            className="min-h-screen bg-slate-50 text-slate-900 font-sans pb-20 selection:bg-slate-200 selection:text-slate-900 flex flex-col">
+            className="min-h-screen bg-slate-50 text-slate-900 font-sans selection:bg-slate-200 selection:text-slate-900 flex flex-col">
 
             <header
                 className={cn(
