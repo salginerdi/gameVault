@@ -1,6 +1,8 @@
 # ⚡ GameVault | Premium Digital Game Store
 
-**GameVault**, modern oyuncular için tasarlanmış, yüksek performanslı ve estetik bir dijital oyun mağazası platformudur. React ve TypeScript ile geliştirilen bu proje; interaktif fragmanlar, dinamik vitrinler ve gelişmiş kullanıcı deneyimi sunar.
+**GameVault**, modern oyuncular için tasarlanmış, yüksek performanslı ve estetik bir dijital oyun mağazası platformu simülasyonudur. React ve TypeScript ile geliştirilen bu proje; interaktif fragmanlar, dinamik vitrinler ve gelişmiş kullanıcı deneyimi sunar.
+
+incelemek için: https://gamevault-five.vercel.app/
 
 ![GameVault Banner](https://img.icons8.com/fluency/96/lightning-bolt.png)
 
